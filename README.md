@@ -93,14 +93,10 @@ End-to-end ML systems — from data ingestion and feature engineering to model t
 
 ---
 
+
 ## GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=chiranthakm-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=chiranthakm-Dev&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranthakm-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=chiranthakm-Dev&theme=dark&hide_border=false&hide=stars,forks,issues,prs,contribs&custom_title=Total+Commits&include_all_commits=true&count_private=true)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=chiranthakm-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
